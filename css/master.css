@@ -80,3 +80,29 @@ ul li a:hover {
 .sign_up:hover {
   border-color: #c44545;
 }
+
+
+ /*SLIDING BOTTOM BAR */
+
+.sliding_bottom_bar {
+  position: relative;
+  background-color: transparent;
+  padding-bottom: 35px;
+  overflow: hidden;
+  height: 0;
+}
+
+.sliding_bottom_bar li.back {
+  border-bottom: 2px solid #c44545;
+  height: 32px;
+  z-index: 8;
+  position: absolute;
+}
+
+.sliding_bottom_bar li a {
+  z-index: 10;
+  display: block;
+  float: left;
+  position: relative;
+  overflow: hidden;
+}
