@@ -106,3 +106,26 @@ ul li a:hover {
   position: relative;
   overflow: hidden;
 }
+
+
+/* MAIN */
+
+h1 {
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 50px;
+  font-weight: 100;
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+  color: #ffffff;
+  width: 849px;
+  max-width: 100vw;
+  height: 129px;
+  padding-top: 80px;
+}
+
+span {
+  font-size: 50px;
+  font-weight: 400;
+  color: #c44545;
+}
