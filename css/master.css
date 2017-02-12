@@ -129,3 +129,32 @@ span {
   font-weight: 400;
   color: #c44545;
 }
+
+
+/* FOOTER */
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+.find_out_text {
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 18px;
+  font-weight: 400;
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+  color: #ffffff;
+  width: 112px;
+  height: 20px;
+}
+
+.find_out_image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 42px;
+  padding-top: 16px;
+}
