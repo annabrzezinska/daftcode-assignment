@@ -144,6 +144,17 @@ span {
   color: #c44545;
 }
 
+.play_button {
+  background-color: inherit;
+  border-style: none;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 76.8px; /*responsywnosc-dostosowac procent*/
+  margin-bottom: 66.4px; /*jak wyzej*/
+  background-color: lightblue;
+  width: 100%;
+}
 
 /* FOOTER */
 
