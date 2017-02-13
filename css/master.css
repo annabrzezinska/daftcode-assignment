@@ -152,7 +152,6 @@ span {
   margin-right: auto;
   margin-top: 76.8px; /*responsywnosc-dostosowac procent*/
   margin-bottom: 66.4px; /*jak wyzej*/
-  background-color: lightblue;
   width: 100%;
 }
 
@@ -161,7 +160,6 @@ span {
 }
 
 .description {
-  background-color: lightsalmon;
   max-width: 100vw;
   width: 660px;
   height: 71px;
