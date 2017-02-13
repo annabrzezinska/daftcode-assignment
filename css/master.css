@@ -145,7 +145,7 @@ span {
 }
 
 .play_button {
-  background-color: inherit;
+  background-color: transparent;
   border-style: none;
   display: block;
   margin-left: auto;
