@@ -95,6 +95,22 @@ ul li a:hover {
   border-color: #c44545;
 }
 
+.hamburger {
+  float: right;
+  display: none;
+}
+
+.hamburger_line_top {
+  border-top: 2px solid #ffffff;
+  width: 34px;
+}
+
+.hamburger_line_bottom {
+  border-bottom: 2px solid #ffffff;
+  margin-top: 8px;
+  width: 34px;
+}
+
 
 /*SLIDING BOTTOM BAR */
 
