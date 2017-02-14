@@ -40,11 +40,13 @@ header {
 .logo {
   float: left;
   margin-top: 42.3px;
+  margin-left: 140.7px;
 }
 
 .menu {
   float: right;
   margin-top: 54.2px;
+  margin-right: 140px;
 }
 
 nav {
