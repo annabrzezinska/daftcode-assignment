@@ -221,25 +221,3 @@ footer {
 
 
 /*MEDIA QUERIES*/
-
-@media (min-width: 1420px) {
-  .logo {
-    margin-left: 9.91vw;
-  }
-  .menu {
-    margin-right: 9.86vw;
-  }
-}
-
-@media (min-height: 800px) {
-  h1 {
-    margin-top: 10.49vh;
-  }
-  .play_button {
-    margin-top: 5.49vh;
-    margin-bottom: 8.3vh;
-  }
-  .description {
-    padding-bottom: 9.39vh;
-  }
-}
