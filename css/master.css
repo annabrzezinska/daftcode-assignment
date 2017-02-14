@@ -223,3 +223,12 @@ footer {
 
 
 /*MEDIA QUERIES*/
+
+@media (min-width: 1420px) {
+  .logo {
+    margin-left: 9.91vw;
+  }
+  .menu {
+    margin-right: 9.86vw;
+  }
+}
