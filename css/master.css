@@ -232,3 +232,16 @@ footer {
     margin-right: 9.86vw;
   }
 }
+
+@media (min-height: 800px) {
+  h1 {
+    margin-top: 10.49vh;
+  }
+  .play_button {
+    margin-top: 5.49vh;
+    margin-bottom: 8.3vh;
+  }
+  .description {
+    padding-bottom: 9.39vh;
+  }
+}
