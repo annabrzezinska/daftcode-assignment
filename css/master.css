@@ -168,8 +168,8 @@ span {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 66.4px; /*jak wyzej*/
   margin-top: 43.9px;
+  margin-bottom: 66.4px;
   width: 100%;
 }
 
@@ -181,7 +181,7 @@ span {
   max-width: 100vw;
   width: 671px;
   height: 71px;
-  padding-bottom: 75.1px;  /*responsywnosc-dostosowac procent*/
+  padding-bottom: 75.1px;
   margin-left: auto;
   margin-right: auto;
   font-size: 14px;
