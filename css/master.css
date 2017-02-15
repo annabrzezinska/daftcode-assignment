@@ -492,3 +492,24 @@ footer {
     display: inline;
   }
 }
+@media (width: 800px) {
+  .logo {
+    margin-left: 35.7px;
+  }
+  nav {
+    display: none;
+  }
+  .hamburger {
+    display: block;
+  }
+  .menu {
+    margin-top: 54.2px;
+    margin-right: 36px;
+  }
+  .description {
+    width: 631px;
+  }
+  p span {
+    display: inline;
+  }
+}
