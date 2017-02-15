@@ -471,3 +471,24 @@ footer {
     display: none;
   }
 }
+@media (min-width: 480px) and (max-width: 800px) {
+  .logo {
+    margin-left: 4.46vw;
+  }
+  .menu {
+    margin-top: 54.2px;
+    margin-right: 4.5vw;
+  }
+  nav {
+    display: none;
+  }
+  .hamburger {
+    display: block;
+  }
+  .description {
+    width: 78vw;
+  }
+  p span {
+    display: inline;
+  }
+}
