@@ -392,3 +392,29 @@ footer {
     height: auto;
   }
 }
+@media (min-height: 800px) {
+  h1 {
+    margin-top: 10.49vh;
+  }
+  .play_button {
+    margin-top: 6.2vh;
+    margin-bottom: 8.3vh;
+  }
+  .play_image {
+    height: 15vh; /*powiekszac*/
+    width: 15vh;
+  }
+  .description_container {
+    padding-bottom: 13.69vh;
+  }
+  .description {
+    padding-bottom: 11.49vh;
+  }
+  .find_out_image {
+    padding-bottom: 5.25vh;
+  }
+  footer {
+    height: auto;
+  }
+}
+
