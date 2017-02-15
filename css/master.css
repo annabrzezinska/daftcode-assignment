@@ -445,3 +445,29 @@ footer {
     display: none;
   }
 }
+@media (width: 480px) {
+  .logo {
+    margin-left: 20.7px;
+  }
+  nav {
+    display: none;
+  }
+  .hamburger {
+    display: block;
+  }
+  .menu {
+    margin-top: 54.2px;
+    margin-right: 19px;
+  }
+  .dot {
+    display: none;
+  }
+  .description {
+    font-size: 16px;
+    line-height: 24px;
+    width: 381px;
+  }
+  p span {
+    display: none;
+  }
+}
