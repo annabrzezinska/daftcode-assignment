@@ -513,3 +513,12 @@ footer {
     display: inline;
   }
 }
+@media (min-width: 800px) and (max-width: 1420px) {
+  .logo {
+    margin-left: 4.46vw;
+  }
+  .menu {
+    margin-top: 54.2px;
+    margin-right: 4.5vw;
+  }
+}
