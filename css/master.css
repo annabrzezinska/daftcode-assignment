@@ -367,3 +367,28 @@ footer {
     display: none;
   }
 }
+@media (height: 800px) {
+  h1 {
+    margin-top: 83.9px;
+  }
+  .play_button {
+    margin-top: 49.6px;
+    margin-bottom: 66.4px;
+  }
+  .play_image {
+    height: 120px;
+    width: 120px;
+  }
+  .description_container {
+    padding-bottom: 109.5px;
+  }
+  .description {
+    padding-bottom: 91.9px;
+  }
+  .find_out_image {
+    padding-bottom: 42px;
+  }
+  footer {
+    height: auto;
+  }
+}
