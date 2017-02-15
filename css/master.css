@@ -221,7 +221,10 @@ footer {
 
 
 /*MEDIA QUERIES*/
+
+
 /*height*/
+
 @media (max-height: 629px) {
   h1 {
     margin-top: 10.12vh;
@@ -248,6 +251,7 @@ footer {
     height: auto;
   }
 }
+
 @media (height: 629px) {
   h1 {
     margin-top: 63.7px;
@@ -277,6 +281,7 @@ footer {
     height: auto;
   }
 }
+
 @media (min-height: 629px) and (max-height: 700px) {
   h1 {
     margin-top: 10.81vh;
@@ -306,6 +311,7 @@ footer {
     height: auto;
   }
 }
+
 @media (height: 700px) {
   h1 {
     margin-top: 75.7px;
@@ -335,6 +341,7 @@ footer {
     height: auto;
   }
 }
+
 @media (min-height: 700px)(max-height: 800px) {
   h1 {
     margin-top: 10.12vh;
@@ -359,6 +366,7 @@ footer {
     display: none;
   }
 }
+
 @media (height: 800px) {
   h1 {
     margin-top: 83.9px;
@@ -384,6 +392,7 @@ footer {
     height: auto;
   }
 }
+
 @media (min-height: 800px) {
   h1 {
     margin-top: 10.49vh;
@@ -406,7 +415,9 @@ footer {
   }
 }
 
+
 /*width*/
+
 @media (max-width: 480px) {
   .logo {
     margin-left: 20.7px;
@@ -433,6 +444,7 @@ footer {
     display: none;
   }
 }
+
 @media (width: 480px) {
   .logo {
     margin-left: 20.7px;
@@ -459,6 +471,7 @@ footer {
     display: none;
   }
 }
+
 @media (min-width: 480px) and (max-width: 800px) {
   .logo {
     margin-left: 4.46vw;
@@ -480,6 +493,7 @@ footer {
     display: inline;
   }
 }
+
 @media (width: 800px) {
   .logo {
     margin-left: 35.7px;
@@ -501,6 +515,7 @@ footer {
     display: inline;
   }
 }
+
 @media (min-width: 800px) and (max-width: 1420px) {
   .logo {
     margin-left: 4.46vw;
@@ -510,6 +525,7 @@ footer {
     margin-right: 4.5vw;
   }
 }
+
 @media (width: 1420px) {
   .hamburger {
     display: none;
@@ -521,6 +537,7 @@ footer {
     display: inline;
   }
 }
+
 @media (min-width: 1420px) {
   .hamburger {
     display: none;
@@ -530,7 +547,9 @@ footer {
   }
 }
 
+
 /*responsive menu*/
+
 @media (max-width: 1250px) {
   nav {
     display: none;
@@ -539,6 +558,7 @@ footer {
     display: block;
   }
 }
+
 @media (width: 1250px) {
   .logo {
     margin-left: 140.7px;
@@ -547,6 +567,7 @@ footer {
     margin-right: 140px;
   }
 }
+
 @media (min-width: 1250px) {
   .logo {
     margin-left: 140.7px;
@@ -556,7 +577,9 @@ footer {
   }
 }
 
+
 /*final*/
+
 @media (width: 480px) and (height: 700px) {
   p span {
     display: none;
@@ -570,11 +593,13 @@ footer {
     width: 381px;
   }
 }
+
 @media (width: 800px) and (height: 629px) {
   .logo {
     height: 0px;
   }
 }
+
 @media (width: 1420px) and (height: 800px) {
   .logo {
     margin-left: 140.7px;
