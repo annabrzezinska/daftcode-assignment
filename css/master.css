@@ -221,3 +221,34 @@ footer {
 
 
 /*MEDIA QUERIES*/
+/*height*/
+@media (max-height: 629px) {
+  h1 {
+    margin-top: 10.12vh;
+    font-size: 36px;
+  }
+  .play_button {
+    margin-top: 7.06vh;
+    margin-bottom: 7.33vh;
+  }
+  .play_image { /*zmniejszac?*/
+    height: 15.89vh;
+    width: 15.89vh;
+  }
+  .description_container {
+    padding-bottom: 14.15vh;
+  }
+  .description {
+    font-size: 14px;
+    padding-bottom: 8.39vh;
+  }
+  p span {
+    display: none;
+  }
+  .find_out_image {
+    padding-bottom: 3.33vh;
+  }
+  footer {
+    height: auto;
+  }
+}
