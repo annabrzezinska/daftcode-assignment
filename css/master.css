@@ -310,3 +310,32 @@ footer {
     height: auto;
   }
 }
+@media (height: 700px) {
+  h1 {
+    margin-top: 75.7px;
+    font-size: 36px;
+  }
+  .play_button {
+    margin-top: 49.4px;
+    margin-bottom: 51.3px;
+  }
+  .play_image {
+    height: 100px;
+    width: 100px;
+  }
+  .description_container {
+    padding-bottom: 89px;
+  }
+  .description {
+    padding-bottom: 60.3px;
+  }
+  p span {
+    display: none;
+  }
+  .find_out_image {
+    padding-bottom: 21px;
+  }
+  footer {
+    height: auto;
+  }
+}
