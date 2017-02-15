@@ -522,3 +522,14 @@ footer {
     margin-right: 4.5vw;
   }
 }
+@media (width: 1420px) {
+  .hamburger {
+    display: none;
+  }
+  .description {
+    width: 659px;
+  }
+  p span {
+    display: inline;
+  }
+}
