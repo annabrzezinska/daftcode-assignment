@@ -252,3 +252,32 @@ footer {
     height: auto;
   }
 }
+@media (height: 629px) {
+  h1 {
+    margin-top: 63.7px;
+    font-size: 36px;
+  }
+  .play_button {
+    margin-top: 45.6px;
+    margin-bottom: 49.3px;
+  }
+  .play_image {
+    height: 100px;
+    width: 100px;
+  }
+  .description_container {
+    padding-bottom: 89px;
+  }
+  .description {
+    padding-bottom: 52.8px;
+  }
+  p span {
+    display: none;
+  }
+  .find_out_image {
+    padding-bottom: 21px;
+  }
+  footer {
+    height: auto;
+  }
+}
