@@ -231,10 +231,6 @@ footer {
     margin-top: 7.06vh;
     margin-bottom: 7.33vh;
   }
-  .play_image { /*zmniejszac?*/
-    height: 15.89vh;
-    width: 15.89vh;
-  }
   .description_container {
     padding-bottom: 14.15vh;
   }
@@ -347,10 +343,6 @@ footer {
     margin-top: 7.06vh;
     margin-bottom: 7.33vh;
   }
-  .play_image { /*zmniejszac?*/
-    height: 15.89vh;
-    width: 15.89vh;
-  }
   .description_container {
     padding-bottom: 14.15vh;
   }
@@ -399,10 +391,6 @@ footer {
   .play_button {
     margin-top: 6.2vh;
     margin-bottom: 8.3vh;
-  }
-  .play_image {
-    height: 15vh; /*powiekszac*/
-    width: 15vh;
   }
   .description_container {
     padding-bottom: 13.69vh;
