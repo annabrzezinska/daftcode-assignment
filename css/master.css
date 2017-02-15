@@ -567,3 +567,34 @@ footer {
     margin-right: 140px;
   }
 }
+
+/*final*/
+@media (width: 480px) and (height: 700px) {
+  p span {
+    display: none;
+  }
+  .logo {
+    height: 0px;
+  }
+  .description {
+    font-size: 16px;
+    line-height: 24px;
+    width: 381px;
+  }
+}
+@media (width: 800px) and (height: 629px) {
+  .logo {
+    height: 0px;
+  }
+}
+@media (width: 1420px) and (height: 800px) {
+  .logo {
+    margin-left: 140.7px;
+  }
+  .menu {
+    margin-right: 140px;
+  }
+  .description {
+    width: 671px;
+  }
+}
