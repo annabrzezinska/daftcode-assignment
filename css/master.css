@@ -541,3 +541,29 @@ footer {
     display: inline;
   }
 }
+
+/*responsive menu*/
+@media (max-width: 1250px) {
+  nav {
+    display: none;
+  }
+  .hamburger {
+    display: block;
+  }
+}
+@media (width: 1250px) {
+  .logo {
+    margin-left: 140.7px;
+  }
+  .menu {
+    margin-right: 140px;
+  }
+}
+@media (min-width: 1250px) {
+  .logo {
+    margin-left: 140.7px;
+  }
+  .menu {
+    margin-right: 140px;
+  }
+}
