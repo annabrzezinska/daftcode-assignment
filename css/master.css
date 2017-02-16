@@ -70,11 +70,12 @@ ul li {
 
 ul li a {
   text-decoration: none;
-  color: white;
+  color: rgba(255, 255, 255, 0.4);
 }
 
 ul li a:hover {
   font-weight: 700;
+  color: rgba(255, 255, 255, 1);
 }
 
 .sign_up {
@@ -85,7 +86,7 @@ ul li a:hover {
   height: 45px;
   margin-top: -22.5px;
   transition: 1s;
-  border: 1px solid #ffffff;
+  border: 1px solid #535454;
   color: #ffffff;
   text-align: center;
   text-transform: uppercase;
