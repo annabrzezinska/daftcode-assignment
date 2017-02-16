@@ -152,7 +152,7 @@ h1 {
   text-align: center;
   color: #ffffff;
   width: 849px;
-  max-width: 100vw;
+  max-width: 90vw;
   margin-top: 83.9px;
 }
 
@@ -234,8 +234,12 @@ footer {
     margin-top: 7.06vh;
     margin-bottom: 7.33vh;
   }
+  .play_image {
+    height: 100px;
+    width: 100px;
+  }
   .description_container {
-    padding-bottom: 14.15vh;
+    padding-bottom: 89px;
   }
   .description {
     font-size: 14px;
@@ -245,7 +249,7 @@ footer {
     display: none;
   }
   .find_out_image {
-    padding-bottom: 3.33vh;
+    padding-bottom: 21px;
   }
   footer {
     height: auto;
