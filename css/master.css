@@ -40,14 +40,12 @@ header {
 
 .logo {
   float: left;
-  margin-top: 42.3px;
-  margin-left: 140.7px;
+  margin: 42.3px 0 0 140.7px;
 }
 
 .menu {
   float: right;
-  margin-top: 54.2px;
-  margin-right: 140px;
+  margin: 54.2px 140px 0 0;
 }
 
 nav {
@@ -142,15 +140,13 @@ ul li a:hover {
 /* MAIN */
 
 h1 {
-  margin-left: auto;
-  margin-right: auto;
   font-size: 50px;
   font-weight: 100;
   text-align: center;
   color: #ffffff;
   width: 849px;
   max-width: 90vw;
-  margin-top: 83.9px;
+  margin: 83.9px auto 0 auto;
 }
 
 h1 span {
@@ -162,10 +158,7 @@ h1 span {
   background-color: transparent;
   border-style: none;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 49.6px;
-  margin-bottom: 66.4px;
+  margin: 49.6px auto 66.4px auto;
   width: 100%;
 }
 
@@ -178,8 +171,7 @@ h1 span {
   width: 659px;
   max-width: 90vw;
   padding-bottom: 91.9px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto 0 auto;
   font-size: 14px;
   font-weight: 300;
   text-align: center;
@@ -198,8 +190,7 @@ footer {
 }
 
 .find_out_text {
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto 0 auto;
   font-size: 18px;
   font-weight: 400;
   text-align: center;
@@ -209,8 +200,7 @@ footer {
 
 .find_out_image {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto 0 auto;
   padding-bottom: 42px;
   padding-top: 16.6px;
 }
@@ -227,8 +217,7 @@ footer {
     font-size: 36px;
   }
   .play_button {
-    margin-top: 7.06vh;
-    margin-bottom: 7.33vh;
+    margin: 7.06vh 0 7.33vh 0;
   }
   .play_image {
     height: 100px;
@@ -258,8 +247,7 @@ footer {
     font-size: 36px;
   }
   .play_button {
-    margin-top: 45.6px;
-    margin-bottom: 49.3px;
+    margin: 45.6px 0 49.3px 0;
   }
   .play_image {
     height: 100px;
@@ -288,8 +276,7 @@ footer {
     font-size: 36px;
   }
   .play_button {
-    margin-top: 7.06vh;
-    margin-bottom: 7.33vh;
+    margin: 7.06vh 0 7.33vh 0;
   }
   .play_image {
     height: 100px;
@@ -318,8 +305,7 @@ footer {
     font-size: 36px;
   }
   .play_button {
-    margin-top: 49.4px;
-    margin-bottom: 51.3px;
+    margin: 49.4px 0 51.3px 0;
   }
   .play_image {
     height: 100px;
@@ -347,8 +333,7 @@ footer {
     margin-top: 10.12vh;
   }
   .play_button {
-    margin-top: 7.06vh;
-    margin-bottom: 7.33vh;
+    margin: 7.06vh 0 7.33vh 0;
   }
   .description_container {
     padding-bottom: 14.15vh;
@@ -372,8 +357,7 @@ footer {
     margin-top: 83.9px;
   }
   .play_button {
-    margin-top: 49.6px;
-    margin-bottom: 66.4px;
+    margin: 49.6px 0 66.4px;
   }
   .play_image {
     height: 120px;
@@ -398,8 +382,7 @@ footer {
     margin-top: 10.49vh;
   }
   .play_button {
-    margin-top: 6.2vh;
-    margin-bottom: 8.3vh;
+    margin: 6.2vh 0 8.3vh 0;
   }
   .description_container {
     padding-bottom: 13.69vh;
@@ -429,8 +412,7 @@ footer {
     display: block;
   }
   .menu {
-    margin-top: 54.2px;
-    margin-right: 19px;
+    margin: 54.2px 19px 0 0;
   }
   .dot {
     display: none;
@@ -456,8 +438,7 @@ footer {
     display: block;
   }
   .menu {
-    margin-top: 54.2px;
-    margin-right: 19px;
+    margin: 54.2px 19px 0 0;
   }
   .dot {
     display: none;
@@ -477,8 +458,7 @@ footer {
     margin-left: 4.46vw;
   }
   .menu {
-    margin-top: 54.2px;
-    margin-right: 4.5vw;
+    margin: 54.2px 4.5vw 0 0;
   }
   nav {
     display: none;
@@ -505,8 +485,7 @@ footer {
     display: block;
   }
   .menu {
-    margin-top: 54.2px;
-    margin-right: 36px;
+    margin: 54.2px 36px 0 0;
   }
   .description {
     width: 631px;
@@ -521,8 +500,7 @@ footer {
     margin-left: 4.46vw;
   }
   .menu {
-    margin-top: 54.2px;
-    margin-right: 4.5vw;
+    margin: 54.2px 4.5vw 0 0;
   }
 }
 
