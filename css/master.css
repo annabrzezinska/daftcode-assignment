@@ -73,7 +73,6 @@ ul li a {
 }
 
 ul li a:hover {
-  font-weight: 700;
   color: rgba(255, 255, 255, 1);
 }
 
