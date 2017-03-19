@@ -432,6 +432,9 @@ footer {
   p span {
     display: none;
   }
+  .hamburger_page {
+    padding: 54.2px 19px 0 42px;
+  }
 }
 
 @media (width: 480px) {
@@ -458,6 +461,9 @@ footer {
   p span {
     display: none;
   }
+  .hamburger_page {
+    padding: 54.2px 21px 0 42px;
+  }
 }
 
 @media (min-width: 480px) and (max-width: 800px) {
@@ -478,6 +484,9 @@ footer {
   }
   p span {
     display: inline;
+  }
+  .hamburger_page {
+    padding: 54.2px 4.5vw 0 42px;
   }
 }
 
@@ -500,6 +509,9 @@ footer {
   p span {
     display: inline;
   }
+  .hamburger_page {
+    padding: 54.2px 36px 0 42px;
+  }
 }
 
 @media (min-width: 800px) and (max-width: 1420px) {
@@ -508,6 +520,9 @@ footer {
   }
   .menu {
     margin: 54.2px 4.5vw 0 0;
+  }
+  .hamburger_page {
+    padding: 54.2px 4.5vw 0 42px;
   }
 }
 
@@ -591,6 +606,9 @@ footer {
   }
   .menu {
     margin-right: 140px;
+  }
+  .hamburger_page {
+    padding: 0 0 0 140px;
   }
 }
 
