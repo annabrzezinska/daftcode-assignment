@@ -74,6 +74,10 @@ ul li a:hover {
   color: rgba(255, 255, 255, 1);
 }
 
+div#hamburger_page {
+  float: left;
+}
+
 .sign_up {
   font-size: 14px;
   font-weight: 400;
