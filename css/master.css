@@ -534,9 +534,41 @@ footer {
 @media (max-width: 1250px) {
   nav {
     display: none;
+    float: none;
+    position: fixed;
+    top: 100px;
+    right: 0px;
+    height: 100%;
+    background-color: #c44545;
+    z-index: 1;
+  }
+  .hamburger_page {
+    background-color: #c44545;
+    position: fixed;
+    top: 0;
+    right: 0;
+    height: 100vh;
   }
   .hamburger {
     display: block;
+  }
+  ul li {
+    float: none;
+    padding: 20px 40px;
+    width: 100%;
+  }
+  ul li a {
+    width: auto;
+    color: rgba(255,255,255,0.6);
+  }
+  .sliding_bottom_bar li.back {
+    border-bottom: none;
+  }
+  .responsive_sign_up {
+    border-color: rgba(255,255,255,0.4);
+  }
+  .responsive_sign_up:hover {
+    border-color: rgba(255,255,255,1);
   }
 }
 
